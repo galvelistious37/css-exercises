@@ -1,0 +1,37 @@
+/* Descendant Combinator by type */
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Descendant Combinator by class */
+/*
+.container .text {
+    background-color: green;
+    color: red;
+    font-size: 20px;
+    text-align: center; 
+}
+*/
+
+/* Descendant Combinator by mix of type and class */
+/*
+div .text {
+    background-color: blue;
+    color: red;
+    font-size: 20px;
+    text-align: center; 
+}
+*/
+
+/* Descendant Combinator by mix of class and type */
+/*
+.container p {
+    background-color: purple;
+    color: red;
+    font-size: 20px;
+    text-align: center; 
+}
+*/
