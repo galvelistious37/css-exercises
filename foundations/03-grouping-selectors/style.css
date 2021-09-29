@@ -1,7 +1,7 @@
 .first-class,
 .second-class{
-    font-size: 28;
-    font-family:'Helvetica', 'Times New Roman', 'sans-serif';
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
 }
 
 .first-class{
