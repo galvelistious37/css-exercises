@@ -28,7 +28,7 @@ These exercises should be done when instructed during the course of the curricul
   - [x] 02-class-id-selectors 
   - [x] 03-grouping-selectors
   - [x] 04-chaining-selectors
-  - [ ] 05-descendant-combinator
+  - [x] 05-descendant-combinator
   - [ ] 06-cascade-fix
 
 2. Margin and Padding:
